@@ -12,7 +12,7 @@ class Program
 
         do
         {
-            Console.WriteLine("Teste De Mesa 2 - Exercícios");
+            Console.WriteLine("Teste De Mesa 2 - Exercícios propostos pelo Professor Sergio Nauffal");
             Console.WriteLine("Digite o número para visualizar a resposta.");
             Console.WriteLine(@"
 1. Crie uma tabela que calcule o rendimento de um investimento.
