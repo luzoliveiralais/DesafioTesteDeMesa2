@@ -17,6 +17,7 @@ namespace DesafiosBNE
 
         public static void MostraTabela()
         {
+            Console.WriteLine("Testando Git!")
             Console.WriteLine($"\u001b[36m| Valor Presente | Taxa de Juros | Período  | Rendimento |\u001b[0m");
             Console.WriteLine($"\u001b[36m| R$ {valorPresente,-11} | {taxaDeJurosPorcentagem + " %",-13} | {periodoMes + " meses",-4} | R$ {valorFuturo,-8:F2}|\u001b[0m");
         }
