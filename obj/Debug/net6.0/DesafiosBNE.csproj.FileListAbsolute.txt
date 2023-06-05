@@ -1,0 +1,15 @@
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.csproj.AssemblyReference.cache
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.AssemblyInfoInputs.cache
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.AssemblyInfo.cs
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.csproj.CoreCompileInputs.cache
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\bin\Debug\net6.0\DesafiosBNE.exe
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\bin\Debug\net6.0\DesafiosBNE.deps.json
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\bin\Debug\net6.0\DesafiosBNE.runtimeconfig.json
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\bin\Debug\net6.0\DesafiosBNE.dll
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\bin\Debug\net6.0\DesafiosBNE.pdb
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.dll
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\refint\DesafiosBNE.dll
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.pdb
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\DesafiosBNE.genruntimeconfig.cache
+C:\Users\laisluz\source\repos\DesafioC#\DesafiosBNE\DesafiosBNE\obj\Debug\net6.0\ref\DesafiosBNE.dll
